@@ -53,7 +53,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-21 13:29:49</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>76607596db510300ac5ff7fdbf96199c</sys_id>
+        <sys_id>c5434652db910300ac5ff7fdbf961998</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="Innovate" source="x_133960_innovate">fe5ae992db510300ac5ff7fdbf9619f1</sys_package>
@@ -61,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate">fe5ae992db510300ac5ff7fdbf9619f1</sys_scope>
         <sys_update_name>sys_dictionary_x_133960_innovate_innovate_number</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-21 13:29:49</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-09-21 14:52:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
