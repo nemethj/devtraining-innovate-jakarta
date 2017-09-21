@@ -12,7 +12,5 @@
         </element>
         <element label="Idea implemented" max_length="40" name="u_implemented" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" max_length="125" name="u_short_description" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
     </element>
 </database>
